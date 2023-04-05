@@ -1,2 +1,2 @@
 # School-Catalog
-digital school catalog 
+digital school catalog using JavaScript
